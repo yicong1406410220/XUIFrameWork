@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab333cd16d0574d45aa8ca899f978f8c, type: 3}
+  m_Name: DUINewsArticles
+  m_EditorClassIdentifier: 
+  articles:
+  - title: TouchManager & GestureDetector
+    content: 'DoozyUI 2.9 comes with a new module, the TouchManager, that gets created
+      automatically when needed, or manually on demand. This manager handles the capture
+      of the following gestures: tap, long tap and swipes (on 4 or 8 axis).
+
+
+      In order to capture and react to a gesture there is a new GestureDetector component
+      that can be attached to anything that needs to react to gestures (2D and 3D
+      objects).
+
+
+      This gesture detection implementation is still in its early stages of development
+      as we are working on adding more options to it. Should you have any suggestions
+      for the TouchManager or the GestureDetector, please let us know.'
+  - title: UIDrawer is the first optional module for DoozyUI
+    content: 'After a lot of performance and usability tests, the UIDrawer is the
+      first optional module for DoozyUI.
+
+
+      We made sure it works with or without DoozyUI, thus the component can be used
+      as a standalone asset as well.
+
+
+      The UIDrawer is a flexible implementation of a Side Drawer (also known as a
+      Navigation Drawer). It can be anchored to any side of the screen and you can
+      also use more than one in your UI design (for example, you can have a drawer
+      on the left or one on the right, and so on...)
+
+      TouchManager and GestureDetector also come with the UIDrawer component.
+
+'
