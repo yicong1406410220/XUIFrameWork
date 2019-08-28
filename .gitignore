@@ -343,3 +343,10 @@ healthchecksdb
 /Assembly-CSharp-Editor.csproj
 /Temp
 /Library
+/XUIFormWork.Editor.csproj
+/XUIFormWork.csproj
+/Unity.TextMeshPro.Editor.csproj
+/Unity.TextMeshPro.csproj
+/Unity.PackageManagerUI.Editor.csproj
+/Unity.CollabProxy.Editor.csproj
+/Unity.Analytics.DataPrivacy.csproj
